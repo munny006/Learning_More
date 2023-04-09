@@ -1,0 +1,66 @@
+.data{
+    width: 762px;
+    height: 610px;
+    border: 1px solid blue;
+}
+.data img{
+    width: 763px;
+    height: 385px;
+}
+.data .user{
+    width: 48px;
+    height: 44px;
+    border-radius: 50%;
+    padding: 12px 12px 12px;
+}
+.data-name{
+   
+    font-size: 16px;
+   
+    color: #111111;
+    margin-top: -53px;
+    margin-left: 71px;
+}
+p{
+  
+   
+    font-style: normal;
+   
+    font-size: 11px;
+   
+    color: rgba(17, 17, 17, 0.6);
+    margin-left: 67px;
+    margin-top: -36px;
+}
+h5{
+   
+    font-style: normal;
+   
+    font-size: 29px;
+    line-height: 160%;
+    color: #111111;
+    margin-left: 28px;
+    margin-top: -14px;
+}
+.data-info{
+    margin-left: 12px;
+}
+.btn-cart{
+    position: absolute;
+    width: 121px;
+    height: 24px;
+    left: 709px;
+    margin-top: -66px;
+    font-size: 18px;
+    background-color: white;
+    color: darkblue;
+   
+}
+.icon{
+    font-size: 21px;
+}
+.btn-date{
+    float: left;
+    margin-top: -24px;
+    margin-left: 34px;
+}

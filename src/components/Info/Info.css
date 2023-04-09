@@ -1,0 +1,19 @@
+.info{
+    background-color: #80808063;
+    padding: 23px;
+    margin-left: -397px;
+    text-align: center;
+    width: 607px;
+    margin-top: 66px;
+}
+.length{
+    margin-left: 155px;
+    margin-top: -26px;
+    font-size: 20px;
+}
+.title-blog{
+    background-color: #80808000;
+    box-shadow: 1px 2px 2px 2px gray;
+    height: 64px;
+    padding: 53px;
+}
