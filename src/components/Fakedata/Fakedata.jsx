@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faBookmark } from '@fortawesome/free-solid-svg-icons'
 const Fakedata = (props) => {
 
-   const {img,title,userimg,username,date} = props.fakedata ;
+   const {img,title,userimg,username,date,time} = props.fakedata ;
 //     const handleAddToCart = (fakedata) =>{
 //     console.log(fakedata)
 //    }
@@ -19,7 +19,7 @@ const handleTime = props.handleTime;
             <img className='user' src={userimg} alt="" />
             <h6 className='data-name'>{username}</h6>
             <a  onClick={()=>handleAddToCart(props.fakedata)} className='btn-cart'>
-                05 Min Read
+                {time} Min Read
                 <FontAwesomeIcon icon=  { faBookmark } className='icon'/>
                 </a>
             <p>{date}</p>
