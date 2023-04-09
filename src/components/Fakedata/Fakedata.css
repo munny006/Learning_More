@@ -49,15 +49,19 @@ h5{
     position: absolute;
     width: 121px;
     height: 24px;
-    left: 709px;
+    left: 686px;;
     margin-top: -66px;
     font-size: 18px;
     background-color: white;
-    color: darkblue;
+    color: black;
    
 }
 .icon{
-    font-size: 21px;
+    font-size: 17px;
+ 
+    float: right;
+    margin-right: -7px;
+    margin-top: 6px;
 }
 .btn-date{
     float: left;

@@ -8,3 +8,15 @@
     gap:105px;
     margin: 70px;
 }
+.spentTime{
+    float: left;
+    margin-left: -395px;
+    width: 627px;
+    padding: 11px;
+    background-color: #8080805e;
+    box-shadow: 1px 2px 2px 2px gray;
+    margin-top: 100px;
+    text-align: center;
+    height: 53px;
+    margin-bottom: 53px;
+}

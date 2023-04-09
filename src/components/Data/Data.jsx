@@ -52,7 +52,7 @@ const Data = () => {
             </div>
             
             <div className="cart-container">
-            <h3>Spent Time on : {readtime} min</h3>
+            <h3 className='spentTime'>Spent Time on : {readtime} min</h3>
                 {
                     <Info 
                         info={info}
